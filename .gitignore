@@ -1,0 +1,13 @@
+# 编译生成的文件
+build/
+*.o
+*.a
+*.so
+*.out
+hello_dxrmv
+
+# IDE文件
+.vscode/
+.idea/
+*.swp
+*.swo
